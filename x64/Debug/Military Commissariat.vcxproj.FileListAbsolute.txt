@@ -1,0 +1,16 @@
+D:\Military Commissariat\x64\Debug\Military Commissariat.vcxproj.AssemblyReference.cache
+D:\Military Commissariat\x64\Debug\MilitaryCommissariat.MyForm.resources
+D:\Military Commissariat\x64\Debug\Military Commissariat.vcxproj.GenerateResource.cache
+D:\Military Commissariat\x64\Debug\Military Commissariat.exe
+D:\Military Commissariat\x64\Debug\MilitaryCommissariat.DataEntryForm.resources
+D:\Military Commissariat\x64\Debug\MilitaryCommissariat.AverageCost.resources
+D:\Military Commissariat\x64\Debug\MilitaryCommissariat.LessAssign.resources
+D:\Military Commissariat\x64\Debug\MilitaryCommissariat.MoreCost.resources
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\x64\Debug\Military Commissariat.vcxproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\x64\Debug\MilitaryCommissariat.AverageCost.resources
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\x64\Debug\MilitaryCommissariat.DataEntryForm.resources
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\x64\Debug\MilitaryCommissariat.LessAssign.resources
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\x64\Debug\MilitaryCommissariat.MoreCost.resources
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\x64\Debug\MilitaryCommissariat.MyForm.resources
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\x64\Debug\Military Commissariat.vcxproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\x64\Debug\Military Commissariat.exe

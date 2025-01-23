@@ -1,0 +1,30 @@
+﻿  DataEntryForm.cpp
+  LessAssign.cpp
+  MoreCost.cpp
+  MyForm.cpp
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(26,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(28,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(35,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(37,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(48,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(51,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(83,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(89,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(111,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(119,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(136,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(172,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(197,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(230,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MilitaryCommissariat.h(311,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MyForm.h(528,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MyForm.h(488,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MyForm.h(497,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MyForm.h(498,19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MyForm.h(499,24): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\MyForm.h(582,101): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  AverageCost.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  DataEntryForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Military Commissariat.vcxproj -> C:\Users\Lenovo\Desktop\MilitaryCommissariat\MilitaryCommissariat\x64\Debug\Military Commissariat.exe
